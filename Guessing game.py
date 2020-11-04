@@ -1,2 +1,0 @@
-statecode= open(statecode.txt)
-
