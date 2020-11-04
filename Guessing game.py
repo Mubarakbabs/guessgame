@@ -1,0 +1,2 @@
+statecode= open(statecode.txt)
+
